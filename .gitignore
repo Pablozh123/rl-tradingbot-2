@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Data & Models (Too large for git)
+data/
+models/
+logs/
+tensorboard/
+
+# IDE
+.vscode/
+.idea/
+
+# Project Specific Results & Logs
+*.csv
+*.txt
+*.log
+*.png
+*.zip
+
+# Keep specific documentation images if needed, but generally exclude generated plots
+!assets/
