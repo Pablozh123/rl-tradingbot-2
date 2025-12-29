@@ -1,0 +1,24 @@
+BACKTEST RESULTS (Grind Only - Continued Training)
+--------------------------------------------------
+Model: models/ppo_lstm_parallel_1765833039
+Data: First 6 months 2023 (52,000 candles)
+Strategy: Grind Only (SFP Disabled)
+
+Final Balance:      $9414.23
+Total Return:       -5.86%
+Total Trades:       183
+  - Longs:          96
+  - Shorts:         84
+Win Rate:           45.36%
+Max Drawdown:       7.90%
+Best Trade:         $110.58
+Worst Trade:        $-97.15
+
+PERFORMANCE BY STRATEGY
+------------------------------------------------------------
+Strategy             | Trades | Win Rate | Total PnL  | Avg PnL
+------------------------------------------------------------
+grind_long           | 96     |   44.8% | $  -180.47 | $  -1.88
+grind_short          | 84     |   47.6% | $  -207.76 | $  -2.47
+unattributed_exit    | 3      |    0.0% | $  -197.54 | $ -65.85
+------------------------------------------------------------

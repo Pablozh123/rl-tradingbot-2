@@ -64,7 +64,7 @@ The model was validated on unseen data to ensure robustness:
 ### 1. Setup
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/rl-tradingbot-2.git
+git clone https://github.com/Pablozh123/rl-tradingbot-2.git
 cd rl-tradingbot-2
 
 # Create virtual environment

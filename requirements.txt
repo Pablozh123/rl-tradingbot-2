@@ -1,0 +1,10 @@
+torch>=2.0.0
+numpy
+pandas
+matplotlib
+gymnasium
+stable-baselines3
+sb3-contrib
+ccxt
+ta
+tensorboard

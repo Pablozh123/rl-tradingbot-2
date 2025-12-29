@@ -1,0 +1,21 @@
+RESULTS WITHOUT GP TRADES (2023)
+================================
+
+Total Trades:       313
+Total PnL:          $2780.46
+Win Rate:           27.80%
+
+ADVANCED METRICS
+----------------
+Profit Factor:      1.12
+Avg Risk:Reward:    1:2.91
+Sortino Ratio:      1.52
+
+STRATEGY BREAKDOWN
+------------------
+Strategy             | Count | Win Rate | PnL       
+-------------------------------------------------------
+grind_short          | 44    | 36.4     | -455.65   
+sfp_short            | 123   | 22.0     | 1129.80   
+grind_long           | 53    | 50.9     | 37.31     
+sfp_long             | 93    | 18.3     | 2069.00   

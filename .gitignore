@@ -9,7 +9,6 @@ env/
 # Data & Models (Too large for git)
 data/
 models/
-logs/
 tensorboard/
 
 # IDE
@@ -17,10 +16,6 @@ tensorboard/
 .idea/
 
 # Project Specific Results & Logs
-*.csv
-*.txt
-*.log
-*.png
 *.zip
 
 # Keep specific documentation images if needed, but generally exclude generated plots

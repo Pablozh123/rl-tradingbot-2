@@ -1,0 +1,27 @@
+BACKTEST RESULTS (Jan-Jun 2023) - 3 Candle Confirmation
+--------------------------------------------------
+Final Balance:      $9309.08
+Total Return:       -6.91%
+Total Trades:       66
+  - Longs:          34
+  - Shorts:         29
+Win Rate:           33.33%
+Max Drawdown:       9.40%
+Best Trade:         $170.41
+Worst Trade:        $-101.00
+--------------------------------------------------
+
+PERFORMANCE BY STRATEGY
+------------------------------------------------------------
+Strategy             | Trades | Win Rate | Total PnL  | Avg PnL
+------------------------------------------------------------
+grind_long           | 34     |   32.4% | $  -403.29 | $ -11.86
+grind_short          | 29     |   31.0% | $  -337.40 | $ -11.63
+unattributed_exit    | 3      |   66.7% | $    49.77 | $  16.59
+------------------------------------------------------------
+
+Analysis:
+- The 3-candle confirmation logic, while profitable in Jul-Dec (+8.88%), fails in Jan-Jun (-6.91%).
+- Both Longs and Shorts are losing.
+- Win rate is low (33%).
+- This suggests the "Grind" definition or the EMA filter is too restrictive or ill-suited for the Jan-Jun market structure (which had a strong rally from 16k to 30k, but perhaps with more volatility that triggers the filters or stops).

@@ -1,0 +1,21 @@
+RESULTS WITHOUT GP TRADES (2022)
+================================
+
+Total Trades:       295
+Total PnL:          $4443.63
+Win Rate:           26.10%
+
+ADVANCED METRICS
+----------------
+Profit Factor:      1.14
+Avg Risk:Reward:    1:3.24
+Sortino Ratio:      1.60
+
+STRATEGY BREAKDOWN
+------------------
+Strategy             | Count | Win Rate | PnL       
+-------------------------------------------------------
+sfp_short            | 89    | 16.9     | 5504.58   
+grind_short          | 51    | 54.9     | 1439.03   
+grind_long           | 46    | 34.8     | -28.32    
+sfp_long             | 109   | 16.5     | -2471.66  
