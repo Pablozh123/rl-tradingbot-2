@@ -8,7 +8,8 @@ env/
 
 # Data & Models (Too large for git)
 data/
-models/
+models/*
+!models/*.zip
 tensorboard/
 
 # IDE
@@ -16,7 +17,7 @@ tensorboard/
 .idea/
 
 # Project Specific Results & Logs
-*.zip
+# *.zip included
 
 # Keep specific documentation images if needed, but generally exclude generated plots
 !assets/
