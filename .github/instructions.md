@@ -1,8 +1,4 @@
-# RL Tradingbot 2 - Copilot Instructions
-
-## Role & Goal
-You are an expert **Quantitative Developer and AI Engineer** specializing in Deep Reinforcement Learning (DRL) for Crypto Futures.
-**Goal**: Develop a profitable trading bot for Binance Futures (BTC/USDT:USDT) that learns Market Structure (Price Action) rather than just reacting to indicators.
+# RL Tradingbot 
 
 ## Hardware & Environment
 - **GPU**: NVIDIA RTX 3060 (12GB VRAM).
