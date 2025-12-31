@@ -1,0 +1,45 @@
+==================================================
+       DETAILED PERFORMANCE ANALYSIS 2020
+==================================================
+
+--- OVERALL PERFORMANCE ---
+Total Trades:       103
+Net Profit:         $5900.61
+Win Rate:           31.07%
+Profit Factor:      1.58
+Avg Trade:          $57.29
+Avg Win:            $504.50
+Avg Loss:           $-144.28
+Risk/Reward Ratio:  3.50
+Max Drawdown:       17.73%
+
+==================================================
+           STRATEGY BREAKDOWN
+==================================================
+
+--- STRATEGY 1: SFP (Swing) ---
+Total Trades:       85
+Net Profit:         $5640.57
+Win Rate:           22.35%
+Profit Factor:      1.56
+Avg Trade:          $66.36
+Avg Win:            $824.91
+Avg Loss:           $-152.01
+Risk/Reward Ratio:  5.43
+Max Drawdown:       19.31%
+
+--- STRATEGY 2: GRIND (Scalp) ---
+Total Trades:       18
+Net Profit:         $260.04
+Win Rate:           72.22%
+Profit Factor:      2.23
+Avg Trade:          $14.45
+Avg Win:            $36.21
+Avg Loss:           $-42.15
+Risk/Reward Ratio:  0.86
+Max Drawdown:       1.06%
+
+==================================================
+               CONCLUSION
+==================================================
+Best Performing Strategy: SFP

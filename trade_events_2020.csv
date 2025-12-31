@@ -1,0 +1,207 @@
+step,price,type,desc
+414,7165.6,entry_long,sfp_long
+451,7110.19,exit_loss,Swing LOSS
+2669,7750.85,entry_long,sfp_long
+2717,7768.0,exit_loss,Swing LOSS
+5997,8537.01,entry_long,sfp_long
+6470,8435.23,exit_loss,Swing LOSS
+6485,8444.08,entry_long,sfp_long
+6496,8395.5,exit_loss,Swing LOSS
+6896,8465.0,entry_long,sfp_long
+6918,8364.61,exit_loss,Swing LOSS
+8676,9458.15,entry_short,sfp_short
+9266,9228.71,exit_win,Swing WIN
+9529,9418.77,entry_short,sfp_short
+9930,9229.19,exit_win,Swing WIN
+9962,9162.27,entry_long,sfp_long
+11592,9929.72,exit_win,Swing WIN
+11825,9798.0,entry_long,sfp_long
+12486,10228.0,exit_win,Swing WIN
+12512,10196.04,entry_short,sfp_short
+12545,10285.85,exit_loss,Swing LOSS
+12679,10203.11,entry_short,sfp_short
+12686,10284.82,exit_loss,Swing LOSS
+13454,9778.18,entry_long,sfp_long
+13671,9656.99,exit_loss,Swing LOSS
+13672,9610.0,entry_long,sfp_long
+13700,9567.77,exit_loss,Swing LOSS
+14375,9617.01,entry_long,sfp_long
+15585,9765.56,exit_win,Swing WIN
+15588,9772.22,entry_short,sfp_short
+15697,9823.77,exit_loss,Swing LOSS
+15773,9544.38,entry_long,sfp_long
+16013,9462.24,exit_loss,Swing LOSS
+16427,8652.01,entry_short,grind_short
+16428,8594.07,exit_win,Scalp WIN
+16918,8565.67,entry_long,sfp_long
+17480,8499.49,exit_loss,Swing LOSS
+17517,8527.66,entry_long,sfp_long
+17942,8763.2,exit_win,Swing WIN
+18550,9067.51,entry_long,grind_long
+18554,9074.61,exit_win,Scalp WIN
+18790,9110.32,entry_long,grind_long
+18791,9114.99,exit_win,Scalp WIN
+19458,8642.61,entry_long,sfp_long
+19474,8572.65,exit_loss,Swing LOSS
+20476,7645.52,entry_long,sfp_long
+20477,7669.0,entry_short,grind_short
+20480,7731.44,exit_loss,Scalp LOSS
+20526,7497.5,exit_loss,Swing LOSS
+21819,5042.66,entry_long,sfp_long
+21835,4872.82,exit_loss,Swing LOSS
+21909,5207.07,entry_long,grind_long
+21910,5199.99,exit_win,Scalp WIN
+22979,6192.23,entry_short,grind_short
+22980,6187.84,exit_win,Scalp WIN
+28268,7370.77,entry_long,grind_long
+28272,7337.14,exit_win,Scalp WIN
+28850,7139.64,entry_long,sfp_long
+28861,6991.28,exit_loss,Swing LOSS
+29857,6783.27,entry_long,sfp_long
+30385,6734.0,exit_loss,Swing LOSS
+30493,6748.49,entry_long,sfp_long
+30506,6719.12,exit_loss,Swing LOSS
+31464,7132.6,entry_short,sfp_short
+31656,7166.5,exit_loss,Swing LOSS
+31861,7078.77,entry_long,sfp_long
+31887,7013.83,exit_loss,Swing LOSS
+35830,8657.28,entry_long,sfp_long
+37444,8367.28,exit_loss,Swing LOSS
+37480,8584.74,entry_long,sfp_long
+37497,8524.32,exit_loss,Swing LOSS
+37669,8522.29,entry_long,sfp_long
+37928,8545.0,exit_loss,Swing LOSS
+37948,8363.79,entry_long,sfp_long
+39268,9409.23,entry_short,grind_short
+39269,9406.19,exit_loss,Scalp LOSS
+39850,9587.86,exit_win,Swing WIN
+40516,9503.0,entry_long,sfp_long
+40708,9413.97,exit_loss,Swing LOSS
+40713,9348.0,entry_long,sfp_long
+40778,9210.01,exit_loss,Swing LOSS
+40780,9190.0,entry_short,grind_short
+40785,9067.55,exit_win,Scalp WIN
+40993,9093.46,entry_long,sfp_long
+41641,9041.09,exit_loss,Swing LOSS
+41659,9079.9,entry_long,sfp_long
+41665,8958.58,exit_loss,Swing LOSS
+41959,8804.7,entry_long,sfp_long
+42234,8749.64,exit_loss,Swing LOSS
+44243,9584.47,entry_long,sfp_long
+44250,9436.56,exit_loss,Swing LOSS
+45220,9586.81,entry_long,sfp_long
+45654,9527.51,exit_loss,Swing LOSS
+45736,9532.77,entry_long,sfp_long
+46085,9661.97,exit_win,Swing WIN
+46815,9688.0,entry_long,sfp_long
+46821,9635.99,exit_loss,Swing LOSS
+47698,9344.02,entry_long,sfp_long
+47788,9257.04,exit_loss,Swing LOSS
+49384,9294.39,entry_long,sfp_long
+50235,9598.49,exit_win,Swing WIN
+50305,9691.99,entry_long,grind_long
+50306,9683.98,exit_win,Scalp WIN
+50545,9370.39,entry_long,sfp_long
+50591,9255.47,exit_loss,Swing LOSS
+50938,9272.05,entry_long,sfp_long
+50959,9231.53,exit_loss,Swing LOSS
+51531,9040.0,entry_long,sfp_long
+51534,9003.65,exit_loss,Swing LOSS
+51695,9048.12,entry_long,sfp_long
+52775,9212.69,exit_win,Swing WIN
+52886,9062.51,entry_long,sfp_long
+52904,8993.24,exit_loss,Swing LOSS
+53692,9026.4,entry_long,sfp_long
+53824,8958.0,exit_loss,Swing LOSS
+53935,9208.0,entry_long,grind_long
+53938,9212.24,exit_win,Scalp WIN
+54906,9229.19,entry_long,sfp_long
+55064,9159.84,exit_loss,Swing LOSS
+55086,9156.31,entry_long,sfp_long
+56823,9143.12,exit_loss,Swing LOSS
+56824,9144.52,entry_long,sfp_long
+61688,11027.88,exit_win,Swing WIN
+61689,11243.28,entry_long,sfp_long
+61695,11298.0,exit_win,Swing WIN
+61728,11325.55,entry_short,sfp_short
+62113,11428.12,exit_loss,Swing LOSS
+63244,11614.27,entry_long,sfp_long
+63283,11541.31,exit_loss,Swing LOSS
+64191,11808.5,entry_short,sfp_short
+64225,11881.28,exit_loss,Swing LOSS
+64407,11487.53,entry_long,sfp_long
+64419,11421.86,exit_loss,Swing LOSS
+66414,11926.21,entry_short,sfp_short
+66624,11823.63,exit_win,Swing WIN
+66632,11814.5,entry_long,sfp_long
+66657,11772.05,exit_loss,Swing LOSS
+66773,11692.7,entry_long,sfp_long
+67360,11585.61,exit_loss,Swing LOSS
+67363,11547.57,entry_long,sfp_long
+67367,11540.97,exit_loss,Swing LOSS
+67537,11585.29,entry_long,sfp_long
+68404,11491.45,exit_loss,Swing LOSS
+68413,11499.48,entry_long,sfp_long
+68421,11451.29,exit_loss,Swing LOSS
+69059,11262.03,entry_long,sfp_long
+69974,11694.82,entry_long,grind_long
+69975,11708.06,exit_win,Scalp WIN
+70084,11595.62,exit_win,Swing WIN
+70089,11603.33,entry_short,sfp_short
+70122,11677.76,exit_loss,Swing LOSS
+70691,11589.87,entry_short,sfp_short
+70692,11545.62,exit_loss,Swing LOSS
+73885,10313.8,entry_long,sfp_long
+74881,10922.33,exit_win,Swing WIN
+74917,10914.94,entry_short,sfp_short
+75281,10979.99,exit_loss,Swing LOSS
+75902,10838.84,entry_long,sfp_long
+76150,10740.23,exit_loss,Swing LOSS
+76151,10696.27,entry_long,sfp_long
+76169,10626.92,exit_loss,Swing LOSS
+76839,10302.03,entry_long,sfp_long
+76858,10171.99,exit_loss,Swing LOSS
+79106,10629.05,entry_long,sfp_long
+79108,10564.27,exit_loss,Swing LOSS
+82382,11467.08,entry_short,sfp_short
+82670,11466.12,entry_long,grind_long
+82671,11459.0,exit_win,Scalp WIN
+82848,11341.97,exit_win,Swing WIN
+82881,11326.07,entry_long,sfp_long
+83286,11274.65,exit_loss,Swing LOSS
+83345,11265.0,entry_long,sfp_long
+84144,11424.89,exit_win,Swing WIN
+88388,13606.89,entry_long,sfp_long
+88415,13540.54,exit_loss,Swing LOSS
+89785,15231.07,entry_long,sfp_long
+89791,15100.01,exit_loss,Swing LOSS
+90734,15444.15,entry_long,grind_long
+90735,15438.23,exit_loss,Scalp LOSS
+91772,15960.0,entry_long,sfp_long
+91787,15852.16,exit_loss,Swing LOSS
+93650,18564.37,entry_short,sfp_short
+93674,18717.0,exit_loss,Swing LOSS
+94726,18971.36,entry_short,sfp_short
+94737,19098.99,exit_loss,Swing LOSS
+94954,19059.15,entry_short,sfp_short
+94971,19126.87,exit_loss,Swing LOSS
+95090,18015.15,entry_long,sfp_long
+95094,17900.18,exit_loss,Swing LOSS
+96157,18285.04,entry_long,grind_long
+96158,18288.23,exit_win,Scalp WIN
+97368,19370.8,entry_short,sfp_short
+98620,18859.8,exit_win,Swing WIN
+98656,18882.5,entry_long,sfp_long
+98742,18773.0,exit_loss,Swing LOSS
+99485,17797.68,entry_long,sfp_long
+100262,19317.63,entry_long,grind_long
+100264,19258.79,exit_loss,Scalp LOSS
+101990,23305.18,exit_win,Swing WIN
+101991,23329.36,entry_short,sfp_short
+102012,23478.32,exit_loss,Swing LOSS
+102506,23181.88,entry_long,sfp_long
+102506,23181.88,entry_long,grind_long
+102507,23235.17,exit_win,Scalp WIN
+102524,22901.51,exit_loss,Swing LOSS
+103359,23502.34,entry_long,grind_long
+103360,23527.11,exit_loss,Scalp LOSS
